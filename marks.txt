@@ -1,0 +1,4 @@
+putin 5
+checkov 4
+ripo 3
+carp 5

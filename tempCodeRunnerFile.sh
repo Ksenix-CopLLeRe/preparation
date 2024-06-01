@@ -1,0 +1,1 @@
+rm ruAlisaspeech.flac # Удаляем speech.flac, т.к. он нам уже не требуется
